@@ -1,0 +1,4 @@
+C:\Users\taylo\Documents\GitHub\ipa2deb\ipa2deb\bin\Debug\ipa2deb.exe
+C:\Users\taylo\Documents\GitHub\ipa2deb\ipa2deb\bin\Debug\ipa2deb.pdb
+C:\Users\taylo\Documents\GitHub\ipa2deb\ipa2deb\obj\x86\Debug\ipa2deb.exe
+C:\Users\taylo\Documents\GitHub\ipa2deb\ipa2deb\obj\x86\Debug\ipa2deb.pdb
