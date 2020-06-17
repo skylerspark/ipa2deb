@@ -1,6 +1,12 @@
 ipa2deb
 =======
 
-Convert iOS IPA into DEB package.
+Grab the latest executable from  the releases page.
 
-    Usage: ipa2deb ipafile description [author] [maintainer]
+Place your IPA in the same directory as ipa2deb.exe
+
+Open a cmd window, CD to your directory.
+
+Run this command:
+
+> ipa2deb.exe ipaFile description [author] [maintainer]
